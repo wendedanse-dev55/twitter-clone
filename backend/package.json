@@ -18,5 +18,8 @@
     "express-async-handler": "^1.2.0",
     "mongoose": "^9.1.5",
     "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
   }
 }
